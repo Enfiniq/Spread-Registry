@@ -26,6 +26,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "demo": {
+      "spread": "http://localhost:3000/spread/demo",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
