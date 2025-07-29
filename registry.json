@@ -32,6 +32,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "testtt": {
+      "spread": "http://localhost:3000/spread/hi",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
