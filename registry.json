@@ -12,6 +12,13 @@
       "versions": [
         "0.0.0"
       ]
+    },
+    "button": {
+      "spread": "http://localhost:3000/spread/button",
+      "versions": [
+        "1.0.1",
+        "1.0.0"
+      ]
     }
   }
 }
