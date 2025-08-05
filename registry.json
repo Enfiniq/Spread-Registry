@@ -1,4 +1,12 @@
 {
   "$schema": "https://spread.neploom.com/schema/spread-registry.json",
-  "spreads": {}
+  "spreads": {
+    "demo-project": {
+      "spread": "http://localhost:3000/spread/demo-project",
+      "versions": [
+        "1.0.1",
+        "1.0.0"
+      ]
+    }
+  }
 }
