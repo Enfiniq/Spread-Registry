@@ -36,6 +36,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "components": {
+      "spread": "https://import-component.vercel.app/spread/components",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
