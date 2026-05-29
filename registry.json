@@ -18,6 +18,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "styles": {
+      "spread": "https://import-component.vercel.app/spread/styles",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
