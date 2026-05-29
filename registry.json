@@ -30,6 +30,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "auth-client": {
+      "spread": "https://import-component.vercel.app/spread/auth-client",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
