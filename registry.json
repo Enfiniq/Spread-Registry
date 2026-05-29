@@ -6,6 +6,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "sendEmail": {
+      "spread": "https://import-component.vercel.app/spread/sendEmail",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
