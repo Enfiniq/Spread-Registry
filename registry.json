@@ -42,6 +42,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "routes": {
+      "spread": "https://import-component.vercel.app/spread/routes",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
