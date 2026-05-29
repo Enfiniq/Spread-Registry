@@ -48,6 +48,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "auth-configs": {
+      "spread": "https://import-component.vercel.app/spread/auth-configs",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
