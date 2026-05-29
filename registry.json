@@ -12,6 +12,12 @@
       "versions": [
         "1.0.0"
       ]
+    },
+    "auth-server": {
+      "spread": "https://import-component.vercel.app/spread/auth-server",
+      "versions": [
+        "1.0.0"
+      ]
     }
   }
 }
